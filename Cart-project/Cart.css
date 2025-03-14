@@ -4,10 +4,12 @@
 }
 body{
 
-    background-color: burlywood;
+    /* background-color: burlywood; */
+    background-image: url('./image/download.png'); 
+    background-repeat: repeat;
 }
 nav{
-    background-color: azure;
+    background-color: black;
     display: flex;
     justify-content: center;
     position: sticky;
